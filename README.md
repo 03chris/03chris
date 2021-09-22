@@ -1,9 +1,9 @@
-### Hi. I'm Christopher Altamirano 👋
+## Hi. I'm Christopher Altamirano
 
 - You can find me on [Linkedin](https://www.linkedin.com/in/03chris/)
 - Visit my web! [Portfolio](https://03chris.github.io/myWeb)
 
-## Knowledge
+### Knowledge
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
