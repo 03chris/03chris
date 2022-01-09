@@ -1,7 +1,13 @@
 ## Hi. I'm Christopher Altamirano
 
-- You can find me on [Linkedin](https://www.linkedin.com/in/03chris/)
-- Visit my web! [Portfolio](https://03chris.github.io/myWeb)
+```js
+const who = {
+  name: "Christopher Altamirano",
+  city: "Buenos Aires, Argentina",
+  role: "frontEndDev",
+  energy: "full"
+};
+```
 
 ### Knowledge
 
@@ -13,3 +19,5 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
+- You can find me on [Linkedin](https://www.linkedin.com/in/03chris/)
+- Visit my web! [Portfolio](https://03chris.github.io/myWeb)
