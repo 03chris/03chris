@@ -4,7 +4,7 @@
 const who = {
   name: "Christopher Altamirano",
   city: "Buenos Aires, Argentina",
-  role: "frontEndDev",
+  role: "FullStackDev",
   energy: "full"
 };
 ```
